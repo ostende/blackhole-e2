@@ -528,7 +528,6 @@ lib/python/Plugins/Extensions/BhPersonalBackup/icons/Makefile
 lib/python/Plugins/Extensions/BhWeather/Makefile
 lib/python/Plugins/Extensions/DLNABrowser/Makefile
 lib/python/Plugins/Extensions/DLNAServer/Makefile
-lib/python/Plugins/Extensions/DLNAServer/Makefile
 lib/python/Plugins/Extensions/StreamTV/Makefile
 lib/python/Plugins/Extensions/StreamTV/icons/Makefile
 lib/python/Plugins/Extensions/CutListEditor/Makefile
