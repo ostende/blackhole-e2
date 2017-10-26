@@ -1,3 +1,3 @@
 installdir = $(pkglibdir)/python/Plugins/Extensions/BhWeather
 
-install_PYTHON = *.py
+install_PYTHON = *.pyo
