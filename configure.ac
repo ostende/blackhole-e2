@@ -552,7 +552,7 @@ lib/python/Plugins/SystemPlugins/BlackHoleApi/Makefile
 lib/python/Plugins/SystemPlugins/NetworkBrowser/Makefile
 lib/python/Plugins/SystemPlugins/NetworkBrowser/icons/Makefile
 lib/python/Plugins/SystemPlugins/WirelessAccessPoint/Makefile
-lib/python/Plugins/SystemPlugins/WirelessLanSetupMakefile
+lib/python/Plugins/SystemPlugins/WirelessLanSetup/Makefile
 lib/python/Plugins/SystemPlugins/SkinSelector/Makefile
 lib/python/Plugins/SystemPlugins/AnimationSetup/Makefile 
 lib/python/Plugins/SystemPlugins/CableScan/Makefile
