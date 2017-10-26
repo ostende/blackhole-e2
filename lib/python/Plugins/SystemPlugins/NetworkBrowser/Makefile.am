@@ -6,4 +6,4 @@ install_PYTHON = *.py
 
 EXTRA_DIST = LICENSE \
              maintainer.info \
-             netscan.so \
+             netscan.so 
