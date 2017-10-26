@@ -512,6 +512,7 @@ include/Makefile
 lib/Makefile
 lib/base/eenv.cpp
 lib/python/Makefile
+lib/python/Blackhole/Makefile
 lib/python/Components/Makefile
 lib/python/Components/Converter/Makefile
 lib/python/Components/Renderer/Makefile
