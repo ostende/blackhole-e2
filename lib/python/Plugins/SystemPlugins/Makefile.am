@@ -6,7 +6,7 @@ SUBDIRS = PositionerSetup Satfinder \
 	HdmiCEC VideoClippingSetup \
 	VideoEnhancement WirelessLan NetworkWizard \
 	SABnzbdSetup FastScan SatelliteEquipmentControl DiseqcTester \
-        BlackHoleApi NetworkBrowser SkinSelector WirelessAccessPoint WirelessLanSetup
+        BlackHoleApi SkinSelector WirelessLanSetup
 
 if VUSOLO2
 SUBDIRS += CableScan
