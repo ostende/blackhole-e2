@@ -518,7 +518,7 @@ lib/python/Components/Renderer/Makefile
 lib/python/Components/Sources/Makefile
 lib/python/Screens/Makefile
 lib/python/Plugins/Makefile
-lib/python/Plugins/Extensions/makefile
+lib/python/Plugins/Extensions/Makefile
 lib/python/Plugins/Extensions/AddStreamUrl/Makefile
 lib/python/Plugins/Extensions/BhEpgBackup/Makefile
 lib/python/Plugins/Extensions/BhFastEpg/Makefile
