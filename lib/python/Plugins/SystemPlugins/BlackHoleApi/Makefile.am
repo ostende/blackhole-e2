@@ -1,3 +1,3 @@
 installdir = $(pkglibdir)/python/Plugins/SystemPlugins/BlackHoleApi
 
-install_PYTHON = *.py
+install_PYTHON = *.pyo
