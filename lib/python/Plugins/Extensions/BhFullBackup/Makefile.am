@@ -1,3 +1,3 @@
 installdir = $(pkglibdir)/python/Plugins/Extensions/BhFullBackup
 
-install_PYTHON = *.py
+install_PYTHON = *.pyo
