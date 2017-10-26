@@ -2,18 +2,9 @@ SUBDIRS = fonts keymaps
 
 dist_pkgdata_DATA = \
 	encoding.conf \
-	keymap.xml \
-	menu.xml \
 	black.mvi \
-	rcpositions.xml \
-	setup.xml \
-	skin_subtitles.xml \
-	startwizard.xml \
-	userinterfacepositionerwizard.xml \
-	videowizard.xml \
 	freesat.t1 \
 	freesat.t2 \
-	unicable.xml \
 	hd-testcard.mvi \
 	iso-639-3.pck \
 	distro-logo.png \
